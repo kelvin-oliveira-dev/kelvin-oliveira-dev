@@ -177,7 +177,7 @@ if __name__ == "__main__":
   
   ### ⚡ Recent Activities
   <!--START_SECTION:activity-->
-  
+1. ℹ️ Labeled PR [#60](https://github.com/equipe-projetos/DinoMath-Run/pull/60) in [equipe-projetos/DinoMath-Run](https://github.com/equipe-projetos/DinoMath-Run)
   <!--END_SECTION:activity-->
 </details>
 
