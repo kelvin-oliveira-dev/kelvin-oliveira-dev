@@ -177,7 +177,7 @@ if __name__ == "__main__":
   
   ### ⚡ Recent Activities
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#73](https://github.com/equipe-projetos/DinoMath-Run/issues/73) in [equipe-projetos/DinoMath-Run](https://github.com/equipe-projetos/DinoMath-Run)
+1. 🔒 Closed issue [#39](https://github.com/equipe-projetos/DinoMath-Run/issues/39) in [equipe-projetos/DinoMath-Run](https://github.com/equipe-projetos/DinoMath-Run)
   <!--END_SECTION:activity-->
 </details>
 
